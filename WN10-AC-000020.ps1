@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that The password history must be configured to 24 passwords remembered.
+    This PowerShell script ensures that the password history must be configured to 24 passwords remembered.
 
 .NOTES
     Author          : Keerthana Peddi
